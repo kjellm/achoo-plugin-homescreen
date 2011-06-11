@@ -17,6 +17,6 @@ Spec = Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.files = Dir.glob('lib/**/*.rb') + 
-    %w(Rakefile README.md COPYING)
+    %w(CHANGES Rakefile README.md COPYING)
 end
 
